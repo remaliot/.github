@@ -19,7 +19,7 @@ Head to our website www.remal.io to learn more about them!
 Are you eager to dive into the world of IoT and gain hands-on experience? At Remal IoT, we offer internship cycles and part-time positions to help you kickstart your career. If you're interested in joining our dynamic team, please send your resume and a brief introduction to [info@remal.io](mailto:info@remal.io). We're excited to hear from you!
 
 🚀 **Showcase Your Projects**
-Have you created something amazing with a Remal IoT product? We'd love to see it! Submit your projects to us, and we might feature them on our blog. It's a fantastic way to share your work with the community and inspire others. Send us a summary of your project and any relevant images or links to [info@remal.io](mailto:info@remal.io) or through any of [our social media accounts](https://remal.io/contact-us/)
+Have you created something amazing with a Remal IoT product? We'd love to see it! Submit your projects to us, and we might feature them on our blog. It's a fantastic way to share your work with the community and inspire others. Send us a summary of your project and any relevant images or links to [info@remal.io](mailto:info@remal.io) or through any of [our social media accounts](https://remal.io/contact-us/).
 
 ## Stay Connected
 
@@ -30,7 +30,7 @@ Have you created something amazing with a Remal IoT product? We'd love to see it
 
 🏜️ The name "Remal" is Arabic for "sand," which is fitting since sand contains silicon, the foundational element used in electronic components that not only powers our IoT devices but is also a cornerstone of all electronics.
 
-🐶 Remal's mascot is a spirited Border Collie belonging to our founder, Khalid. Named Atlas, this intelligent pup embodies the innovative and energetic spirit of the Remal IoT team.
+🐶 Remal's mascot is a spirited Border Collie belonging to our founder, Khalid Mansoor AlAwadhi. Named Atlas, this intelligent pup embodies the innovative and energetic spirit of the Remal IoT team.
 
 ---
 
