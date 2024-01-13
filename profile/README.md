@@ -8,8 +8,8 @@ At Remal IoT, we are passionate about advancing the UAE's technological landscap
 
 ## Our Products
 - **Shabakah**: Our advanced board designed for more complex IoT applications with Wi-Fi and Bluetooth capabilities.
-- **Nabd**: Tailored for beginners and hobbyists, ideal for learning the basics of IoT.
 - **Atlas**: A versatile development board, perfect for various IoT projects.
+- **Nabd**: Tailored for beginners and hobbyists, ideal for learning the basics of IoT.
 
 Head to our website www.remal.io to learn more about them!
 
