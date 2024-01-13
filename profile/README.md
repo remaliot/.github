@@ -7,7 +7,7 @@
 At Remal IoT, we are passionate about advancing the UAE's technological landscape through innovative IoT solutions. We specialize in designing and assembling Printed Circuit Boards (PCBs), focusing on empowering and educating individuals and companies to build cutting-edge smart devices. Our goal is to revolutionize IoT learning and application, making it accessible and practical for everyone.
 
 ## Our Products
-- **Shabakah**: Our advanced board designed for more complex IoT applications with Wi-Fi and Bluetooth capabilities
+- **Shabakah**: Our advanced board designed for more complex IoT applications with Wi-Fi and Bluetooth capabilities.
 - **Nabd**: Tailored for beginners and hobbyists, ideal for learning the basics of IoT.
 - **Atlas**: A versatile development board, perfect for various IoT projects.
 
