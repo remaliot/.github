@@ -24,7 +24,7 @@ Have you created something amazing with a Remal IoT product? We'd love to see it
 ## Stay Connected
 
 - Check out our [Blog](https://remal.io/blog/) for interesting reads on IoT and our journey.
-- We post most frequently on [Instagram](https://www.instagram.com/remal_iot/), so follow us there for the latest updates!
+- We post most frequently on [Instagram](https://www.instagram.com/remalhq/), so follow us there for the latest updates!
 
 ## Fun Facts
 
